@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Just for fun</title>
   
-  <subtitle>Deep Learning 中一些好玩的东西</subtitle>
+  <subtitle>Welcome to TPF&#39;s space ~~~</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://tpf2017.github.io/"/>
-  <updated>2020-05-18T14:29:24.484Z</updated>
+  <updated>2020-09-03T14:40:05.844Z</updated>
   <id>http://tpf2017.github.io/</id>
   
   <author>
@@ -17,11 +17,11 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hello World</title>
-    <link href="http://tpf2017.github.io/2020/05/18/hello-world/"/>
-    <id>http://tpf2017.github.io/2020/05/18/hello-world/</id>
-    <published>2020-05-18T14:29:24.484Z</published>
-    <updated>2020-05-18T14:29:24.484Z</updated>
+    <title>leetcode51 N皇后</title>
+    <link href="http://tpf2017.github.io/2020/09/03/LeetCode51%20N%E7%9A%87%E5%90%8E/"/>
+    <id>http://tpf2017.github.io/2020/09/03/LeetCode51%20N%E7%9A%87%E5%90%8E/</id>
+    <published>2020-09-03T13:46:26.199Z</published>
+    <updated>2020-09-03T14:40:05.844Z</updated>
     
     <summary type="html">
     
@@ -29,7 +29,7 @@
       
         
         
-          &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a
+          &lt;p&gt;题目链接：&lt;a href=&quot;https://leetcode-cn.com/problems/n-queens/&quot; target=&quot;_blank&quot;
         
       
     
