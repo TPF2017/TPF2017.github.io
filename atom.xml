@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://tpf2017.github.io/"/>
-  <updated>2020-09-21T15:04:07.214Z</updated>
+  <updated>2020-09-21T16:04:36.816Z</updated>
   <id>http://tpf2017.github.io/</id>
   
   <author>
@@ -17,11 +17,11 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>leetcode51 N皇后</title>
-    <link href="http://tpf2017.github.io/2020/09/21/%E6%9C%80%E7%9F%AD%E8%B7%AF%E5%BE%84%E4%B9%8B%20Dijkstra%20%E7%AE%97%E6%B3%95/"/>
-    <id>http://tpf2017.github.io/2020/09/21/%E6%9C%80%E7%9F%AD%E8%B7%AF%E5%BE%84%E4%B9%8B%20Dijkstra%20%E7%AE%97%E6%B3%95/</id>
+    <title>Leetcode 787 (K站中转内最便宜的航班)</title>
+    <link href="http://tpf2017.github.io/2020/09/21/Leetcode%20787%20(K%E7%AB%99%E4%B8%AD%E8%BD%AC%E5%86%85%E6%9C%80%E4%BE%BF%E5%AE%9C%E7%9A%84%E8%88%AA%E7%8F%AD)/"/>
+    <id>http://tpf2017.github.io/2020/09/21/Leetcode%20787%20(K%E7%AB%99%E4%B8%AD%E8%BD%AC%E5%86%85%E6%9C%80%E4%BE%BF%E5%AE%9C%E7%9A%84%E8%88%AA%E7%8F%AD)/</id>
     <published>2020-09-21T15:00:30.491Z</published>
-    <updated>2020-09-21T15:04:07.214Z</updated>
+    <updated>2020-09-21T16:04:36.816Z</updated>
     
     <summary type="html">
     
@@ -29,7 +29,7 @@
       
         
         
-          &lt;p&gt;题目链接：&lt;a href=&quot;https://leetcode-cn.com/problems/n-queens/&quot; target=&quot;_blank&quot;
+          &lt;p&gt;题目链接：&lt;a href=&quot;https://leetcode-cn.com/problems/cheapest-flights-within-k-stops/&quot; target=&quot;_blank&quot;
         
       
     
@@ -40,11 +40,11 @@
   </entry>
   
   <entry>
-    <title>leetcode51 N皇后</title>
-    <link href="http://tpf2017.github.io/2020/09/03/LeetCode51%20N%E7%9A%87%E5%90%8E/"/>
-    <id>http://tpf2017.github.io/2020/09/03/LeetCode51%20N%E7%9A%87%E5%90%8E/</id>
+    <title>LeetCode 51 (N皇后)</title>
+    <link href="http://tpf2017.github.io/2020/09/03/LeetCode%2051%20(N%E7%9A%87%E5%90%8E)/"/>
+    <id>http://tpf2017.github.io/2020/09/03/LeetCode%2051%20(N%E7%9A%87%E5%90%8E)/</id>
     <published>2020-09-03T13:46:26.199Z</published>
-    <updated>2020-09-21T14:56:45.109Z</updated>
+    <updated>2020-09-21T15:41:18.175Z</updated>
     
     <summary type="html">
     
